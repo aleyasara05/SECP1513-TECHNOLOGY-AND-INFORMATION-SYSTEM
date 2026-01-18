@@ -1,4 +1,4 @@
-# INDUSTRY TALK 1 - PPG
+# ASSIGNMENT 2: INDUSTRY TALK 1 - PPG
 
 On 20 November 2025, I had the opportunity to attend my first industrial talk hosted by PPG. The session was an eye-opening experience that gave me a clearer understanding of how a multinational company operates and how important ICT is in supporting business activities on a global scale.
 
