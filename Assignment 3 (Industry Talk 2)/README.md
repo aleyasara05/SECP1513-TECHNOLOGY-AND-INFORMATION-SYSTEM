@@ -1,4 +1,4 @@
-# INDUSTRY-TALK-2
+# ASSIGNMENT 3: INDUSTRY-TALK-2
 
 On 18 December 2025, I attended my second industrial talk, organised by Serunai Commerce Sdn Bhd. The session was delivered by Ts. Hj. Abdul Alim bin Abdul Muttalib,
 the Head of Technology and Innovation. It was an insightful talk that provided a deeper understanding of the realities of working in the technology industry.
