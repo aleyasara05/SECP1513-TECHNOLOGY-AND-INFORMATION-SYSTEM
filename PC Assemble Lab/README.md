@@ -1,3 +1,5 @@
+#Lab: PC Assembly Lab
+
 On 12th November 2025, a day which brought me and my team an opportunity to learn how to un-assemble and reassemble a personal computer. Before that, I never had a chance to observe a computer from within and, more so, to lay my hands on a computer. I thought that opening a computer was a difficult and risky process, but everything was different after this experience. The process of observing various components combining together to make a computer functional was quite interesting.
 
 Handling the components has also taught me the delicacy involved. Even the slightest mistake will prevent the computer from turning on, but the process of working incrementally—removing the screws, the cables, the components—was demonstrated by the lecturers, and this has also taught us how to handle everything carefully. What seemed intimidating at first became quite easy once I taught myself how to handle the component removal process by working incrementally. Sometimes things seem intimidating at first but are only a matter of requiring smaller steps.
