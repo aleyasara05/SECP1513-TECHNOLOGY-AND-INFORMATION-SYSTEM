@@ -22,6 +22,6 @@ This project has helped me gain confidence in presenting my ideas and conveying 
 ## Future Application
 Looking ahead, I aim to apply what I learned throughout my process of developing a secure and accurate system with a focus on user experience. This project has motivated me to delve deeper into knowledge related to secure and user-focused tech and apply my skills to solve problems.
 
-REPORT: https://drive.google.com/file/d/1g8vKF6LI62pm52Vyq-U1UyjtKWp0OUxm/view?usp=sharing
+REPORT: https://drive.google.com/file/d/1LQ-dB4iEe1zudl1Y1kavHDHWN896EqJh/view?usp=sharing
 
-VIDEO: https://drive.google.com/file/d/1Jhjvv-0qN9gHt1w7jw5KXXwYOzcWGYqf/view?usp=sharing
+VIDEO PRESENTATION: https://drive.google.com/file/d/1Lfy_HThxuHN1iw0bUhd4QgeC6hk0xQsg/view?usp=sharing
