@@ -26,6 +26,6 @@ VIDEO: https://drive.google.com/file/d/1jB_wP4dF86jxFRfURHZFsfPHuuXUWTBJ/view?us
 
 ![image alt](https://github.com/aleyasara05/TECHNOLOGY-AND-INFORMATION-SYSTEM/blob/56f647a6f4057bab19a8fbe561293b257b4d65e7/Assignment%201%20(UTMDigital%20Vlog)/pic%20utm%20digital%201.jpg)<br>
 
-![image alt](https://github.com/aleyasara05/UTM-DIGITAL-OPEN-DAY/blob/69ae4d643849ad59a5ba4974d41ba8e38a5a06bd/pic%20utm%20digital%202.jpg)<br>
+![image alt](https://github.com/aleyasara05/TECHNOLOGY-AND-INFORMATION-SYSTEM/blob/02a69934a91ebbad7a897f1e8e1c7b0e9e1f1e36/Assignment%201%20(UTMDigital%20Vlog)/pic%20utm%20digital%202.jpg)<br>
 
-![image alt](https://github.com/aleyasara05/UTM-DIGITAL-OPEN-DAY/blob/69ae4d643849ad59a5ba4974d41ba8e38a5a06bd/pic%20utm%20digital%203.jpg)<br>
+![image alt](https://github.com/aleyasara05/TECHNOLOGY-AND-INFORMATION-SYSTEM/blob/c27e9d1aaa9f49688a1692273322f88525ec2941/Assignment%201%20(UTMDigital%20Vlog)/pic%20utm%20digital%203.jpg)<br>
