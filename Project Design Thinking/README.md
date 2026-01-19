@@ -1,6 +1,6 @@
 # Project Design Thinking
 
-## Reflections
+## Reflection
 Undertaking the design thinking project for the development of a face scan system for students has been a very significant learning experience for me. This particular project has helped me gain a further insight into how technology can be used for resolving practical problems associated with campus security and attendance. This particular project has not only helped me gain an understanding of what a face recognition system is all about, but it has also helped me realize how this technology can be used in a positive manner within a schooling environment.
 
 Through this process of design thinking, it was possible for my team to empathize with users, define a problem statement, and design a solution to this problem, taking into consideration functionality and usability. This activity has further enhanced my understanding of the importance of feedback, accuracy, and morality within digital system design.
