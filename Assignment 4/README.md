@@ -6,3 +6,6 @@ From the industry talk, one of the most important things that I learned is that 
 
 Overall, this talk about my career has further enhanced my interest in the ICT field and helped me understand the role of ICT in the industry through digital transformation and innovation.
 This has further encouraged me to not only develop my skills but also my interpersonal skills so that I have a career in the Information Technology field.
+
+![image alt](https://github.com/aleyasara05/SECP1513-TECHNOLOGY-AND-INFORMATION-SYSTEM/blob/2ab0f3a741f721711b5fbae7434f22e5af43d9d4/Assignment%204/SECP1513%20ASSIGNMENT%204.jpg)<br>
+![image alt](https://github.com/aleyasara05/SECP1513-TECHNOLOGY-AND-INFORMATION-SYSTEM/blob/2ab0f3a741f721711b5fbae7434f22e5af43d9d4/Assignment%204/SECP1513%20ASSIGNMENT%204%20(2).jpg)<br>
